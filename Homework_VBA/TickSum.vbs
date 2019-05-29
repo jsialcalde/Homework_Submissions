@@ -24,7 +24,7 @@ Sub TickSum()
         VolTotal = 0
         
         ' For each sheet, create a summary table to hold the results
-        ' Keep track of the location for each credit card brand in the summary table
+        ' Keep track of the location for stock ticker in the summary table
         
         Summary_Table_Row = 2
         
